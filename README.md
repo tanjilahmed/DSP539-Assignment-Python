@@ -64,7 +64,12 @@ $$Propotion\ of\ observed\ kmers=\begin{equation*}\frac{observed\_kmers}{possibl
 &nbsp;
 
 ### Code Description-2:
-#### File: test_seq_complexity.py 
+#### File: test_seq_complexity.py
+&nbsp;
+### _Prerequisite_:
+##### Python Packages: pytest
+##### Software: Anaconda (I used); You can choose any relevent software/IDE at your convenience
+&nbsp;
 ##### Methods:
 ###### a. test_file_is_Empty(): 
          - check if the input file is empty or not 
