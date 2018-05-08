@@ -62,10 +62,10 @@ $$Propotion\ of\ observed\ kmers=\begin{equation*}\frac{observed\_kmers}{possibl
 ##### Notes:
 ###### 1. Plot is generated for each species and named according to species
 &nbsp;
+&nbsp;
 
 ### Code Description-2:
 #### File: test_seq_complexity.py
-&nbsp;
 ### _Prerequisite_:
 ##### Python Packages: pytest
 ##### Software: Anaconda (I used); You can choose any relevent software/IDE at your convenience
