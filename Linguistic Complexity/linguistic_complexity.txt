@@ -23,13 +23,13 @@ Phaethornis_yaruqui 0.9929344302710995
 Phaethornis_ruber 0.9929033848626241
 Phaethornis_malaris 0.992956344677082
 Phaethornis_koepckeae 0.9929654756795748
-Phaethornis_guy 0.993005652090543
+Phaethornis_guy 0.9929618232785777
 Phaethornis_bourcieri 0.9929417350730937
 Phaethornis_augusti 0.9930787001104852
 Phaethornis_anthophilus 0.9928449464466704
 Patagona_gigas 0.9931060931179634
 Panterpe_insignis 0.993058611905001
-Oxypogon_guerini 0.992956344677082
+Oxypogon_guerini 0.9929179944666124
 Orthorhyncus_cristatus 0.9929691280805719
 Oreotrochilus_estella 0.9930513071030068
 Oreonympha_nobilis 0.9929344302710995
@@ -42,7 +42,7 @@ Metallura_phoebe 0.992985563885059
 Metallura_aeneocauda 0.9929453874740908
 Lophornis_pavoninus 0.9930458285015111
 Lophornis_delattrei 0.9930787001104852
-Lesbia_victoriae 0.9932850607668215
+Lesbia_victoriae 0.9929928686870532
 Lepidopyga_coeruleogularis 0.9931791411379055
 Lampornis_hemileucus 0.9932266223508679
 Lampornis_castaneoventris 0.9932741035638303
@@ -113,7 +113,7 @@ Androdon_aequatorialis 0.9930622643059982
 Amazilia_viridigaster 0.992985563885059
 Amazilia_versicolor 0.9931353123259402
 Amazilia_tzacatl 0.9931207027219519
-Amazilia_saucerrotei 0.992985563885059
+Amazilia_saucerrotei 0.9929125158651169
 Amazilia_rutila 0.9931517481304273
 Amazilia_franciae 0.9930677429074938
 Amazilia_fimbriata 0.9930147830930358
