@@ -61,6 +61,12 @@
 $$Propotion\ of\ observed\ kmers=\begin{equation*}\frac{observed\_kmers}{possible\_kmers}\end{equation*}$$
 ##### Notes:
 ###### 1. Plot is generated for each species and named according to species
+###### 2. Code "R: in sequence means either "A" or "G"; Here "R" replaced by "A" arbitrarily
+###### 3. Code "Y: in sequence means either "C" or "T"; Here "Y" replaced by "T" arbitrarily
+###### 4. Code "M: in sequence means either "A" or "C"; Here "M" replaced by "C" arbitrarily
+###### Reference: Fasta Code Meaning, <http://www.boekhoff.info/dna-fasta-codes/>
+
+
 &nbsp;
 &nbsp;
 
