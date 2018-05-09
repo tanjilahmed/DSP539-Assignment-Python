@@ -59,6 +59,7 @@
 
 <img src="Plot/Adelomyia_melanogenys.png">
 $$Propotion\ of\ observed\ kmers=\begin{equation*}\frac{observed\_kmers}{possible\_kmers}\end{equation*}$$
+![equation](http://latex.codecogs.com/gif.latex?Concentration%3D%5Cfrac%7BTotalTemplate%7D%7BTotalVolume%7D)  
 
 
 ##### Notes:
