@@ -59,6 +59,7 @@
 
 <img src="Plot/Adelomyia_melanogenys.png">
 $$Propotion\ of\ observed\ kmers=\begin{equation*}\frac{observed\_kmers}{possible\_kmers}\end{equation*}$$
+``$ y=\sum_{i=1}^n g(x_i) $``
 ##### Notes:
 ###### 1. Plot is generated for each species and named according to species
 ###### 2. Code "R: in sequence means either "A" or "G"; Here "R" replaced by "A" arbitrarily
