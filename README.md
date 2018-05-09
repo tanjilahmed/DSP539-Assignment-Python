@@ -59,7 +59,6 @@
 
 <img src="Plot/Adelomyia_melanogenys.png">
 
-
 ##### Notes:
 ###### 1. Plot is generated for each species and named according to species
 ###### 2. Propotion of observed kmers = observed_kmers/possible_kmers
