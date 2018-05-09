@@ -62,10 +62,10 @@
 
 ##### Notes:
 ###### 1. Plot is generated for each species and named according to species
-###### 1. Propotion of observed kmers = observed_kmers/possible_kmers
-###### 2. Code "R: in sequence means either "A" or "G"; Here "R" replaced by "A" arbitrarily
-###### 3. Code "Y: in sequence means either "C" or "T"; Here "Y" replaced by "T" arbitrarily
-###### 4. Code "M: in sequence means either "A" or "C"; Here "M" replaced by "C" arbitrarily
+###### 2. Propotion of observed kmers = observed_kmers/possible_kmers
+###### 3. Code "R: in sequence means either "A" or "G"; Here "R" replaced by "A" arbitrarily
+###### 4. Code "Y: in sequence means either "C" or "T"; Here "Y" replaced by "T" arbitrarily
+###### 5. Code "M: in sequence means either "A" or "C"; Here "M" replaced by "C" arbitrarily
 ###### Reference: Fasta Code Meaning, <http://www.boekhoff.info/dna-fasta-codes/>
 &nbsp;
 
