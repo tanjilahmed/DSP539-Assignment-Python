@@ -61,9 +61,9 @@
 $
 Propotion\ of\ observed\ kmers=\begin{equation*}\frac{observed\_kmers}{possible\_kmers}\end{equation*}
 $
-$
+\[
 Propotion\ of\ observed\ kmers=\begin{equation}\frac{observed\_kmers}{possible\_kmers}\end{equation}
-$
+\]
 
 \begin{equation}
 Propotion\ of\ observed\ kmers=\begin{equation*}\frac{observed\_kmers}{possible\_kmers}\end{equation*}
