@@ -65,17 +65,10 @@ $$Propotion\ of\ observed\ kmers=\begin{equation*}\frac{observed\_kmers}{possibl
 ###### 3. Code "Y: in sequence means either "C" or "T"; Here "Y" replaced by "T" arbitrarily
 ###### 4. Code "M: in sequence means either "A" or "C"; Here "M" replaced by "C" arbitrarily
 ###### Reference: Fasta Code Meaning, <http://www.boekhoff.info/dna-fasta-codes/>
-
-
-&nbsp;
 &nbsp;
 
 ### Code Description-2:
-#### File: test_seq_complexity.py
-### _Prerequisite_:
-##### Python Packages: pytest
-##### Software: Anaconda (I used); You can choose any relevent software/IDE at your convenience
-&nbsp;
+#### File: test_seq_complexity.py 
 ##### Methods:
 ###### a. test_file_is_Empty(): 
          - check if the input file is empty or not 
