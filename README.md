@@ -58,12 +58,18 @@
          - Fromat:          
 
 <img src="Plot/Adelomyia_melanogenys.png">
-$Propotion\ of\ observed\ kmers=\begin{equation*}\frac{observed\_kmers}{possible\_kmers}\end{equation*}$
+$
+Propotion\ of\ observed\ kmers=\begin{equation*}\frac{observed\_kmers}{possible\_kmers}\end{equation*}
+$
+$
+Propotion\ of\ observed\ kmers=\begin{equation}\frac{observed\_kmers}{possible\_kmers}\end{equation}
+$
+
 \begin{equation}
 Propotion\ of\ observed\ kmers=\begin{equation*}\frac{observed\_kmers}{possible\_kmers}\end{equation*}
 \end{equation}
 
-![\Large Propotion\ of\ observed\ kmers=\frac{observed\_kmers}{possible\_kmers}](https://latex.codecogs.com/svg.latex?x%3D%5Cfrac%7B-b%5Cpm%5Csqrt%7Bb%5E2-4ac%7D%7D%7B2a%7D)
+![\Large Propotion of observed kmers=\frac{observed_kmers}{possible_kmers}](https://latex.codecogs.com/svg.latex?x%3D%5Cfrac%7B-b%5Cpm%5Csqrt%7Bb%5E2-4ac%7D%7D%7B2a%7D)
 
 ##### Notes:
 ###### 1. Plot is generated for each species and named according to species
