@@ -59,6 +59,9 @@
 
 <img src="Plot/Adelomyia_melanogenys.png">
 $Propotion\ of\ observed\ kmers=\begin{equation*}\frac{observed\_kmers}{possible\_kmers}\end{equation*}$
+\begin{equation}
+Propotion\ of\ observed\ kmers=\begin{equation*}\frac{observed\_kmers}{possible\_kmers}\end{equation*}
+\end{equation}
 
 
 ##### Notes:
